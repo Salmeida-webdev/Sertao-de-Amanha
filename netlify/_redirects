@@ -1,0 +1,3 @@
+# Angular prerendered routes emit their own index.html documents.
+# Keep a fallback for unknown paths and client-side navigation.
+/*    /index.html   200
